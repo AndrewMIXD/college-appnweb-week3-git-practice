@@ -1,0 +1,8 @@
+# .gitignore
+desktop.ini
+.env
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+backup/
